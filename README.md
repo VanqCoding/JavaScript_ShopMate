@@ -1,6 +1,6 @@
 # Shop Mate
  
-Welcome to the Blackjack game! This project is a simple implementation of the classic card game using HTML, CSS, and JavaScript.
+Welcome to the Shop Mate app! This project can be deployed onto mobile devices using the netlify URL provided.
 
 ## Demo
 Try it out: https://shop-mate-telmen.netlify.app/
