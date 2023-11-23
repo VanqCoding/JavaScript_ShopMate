@@ -1,7 +1,7 @@
 # Shop Mate
 
 <div style="display: flex;">
-    <img src="Screenshot_mobile.jpeg" alt="Project Image" width="300" style="margin-right: 20px;"/>
+    <img src="Screenshot_mobile.jpeg" alt="Project Image" width="300" style="margin-right: 100px;"/>
     <img src="Screenshot_mobile2.jpeg" alt="Project Image" width="300"/>
 </div>
 
