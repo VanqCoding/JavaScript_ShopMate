@@ -1,9 +1,6 @@
 # Shop Mate
 
-<div style="display: flex;">
-    <img src="Screenshot_mobile.jpeg" alt="Project Image" width="300" style="margin-right: 100px;"/>
-    <img src="Screenshot_mobile2.jpeg" alt="Project Image" width="300"/>
-</div>
+![Project Image](Screenshot.png)   ![Project Image](Screenshot_mobile.jpeg)   ![Project Image](Screenshot_mobile2.jpeg)
 
  
 Welcome to the Shop Mate app! This project can be deployed onto mobile devices using the netlify URL provided.
