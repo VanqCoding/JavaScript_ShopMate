@@ -1,6 +1,6 @@
 # Shop Mate
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 100px;">
     <img src="Screenshot_mobile.jpeg" alt="Project Image" width="300"/>
     <img src="Screenshot_mobile2.jpeg" alt="Project Image" width="300"/>
 </div>
